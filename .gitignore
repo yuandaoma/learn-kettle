@@ -1,0 +1,10 @@
+.idea\
+test.iml
+target
+.idea
+*.txt
+!src
+!pom.xml
+!.gitignore
+/plugins/
+files
